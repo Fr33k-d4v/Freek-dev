@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Freek-dev
 - 🕴 🇵🇸 Proud, 17 Years Old 
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Pygame, React.js
-- 💞️ I’m looking to collaborate on Game dev
+- 👀 I’m interested in Ethical Hacking and CTF
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Ethical Hacking
 - 📫 How to reach me IG:abbood_madi
 
 <!---
